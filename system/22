@@ -1,2 +1,2 @@
-useradd username
-passwd username
+sudo useradd username
+sudo passwd username

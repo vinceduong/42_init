@@ -1,2 +1,2 @@
 pkill -u username
-userdel username
+sudo userdel username

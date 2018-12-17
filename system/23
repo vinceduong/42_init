@@ -1,2 +1,2 @@
-graphical connect log out and login again with the new user
-you must use the command 'ssh username@localhost' and iether have the keys or enter the password
+"su - username" to connect from terminal
+"ssh username@localhost" to connect from ssh
