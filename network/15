@@ -1,0 +1,3 @@
+by adding the IP address before the wanted link as in the next line
+intra.fr.42		46.19.122.85
+int the file /etc/hosts
