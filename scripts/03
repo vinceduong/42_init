@@ -1,5 +1,5 @@
 #!/bin/bash
-find . \( -name a.out \) -print -delete
+make fclean
 echo "Print in your message"
 read MSG 
 git add -A

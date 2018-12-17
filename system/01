@@ -1,1 +1,1 @@
-cat /etc/issue
+/etc/debian_version
